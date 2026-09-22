@@ -32,7 +32,7 @@ A personal treasury and portfolio journal connecting cash-flow tracking, multi-c
 - Explores portfolio valuations, cash-flow-adjusted performance, and the assumptions behind risk measures.
 - Offers a public demo with fictional records and session-only data.
 
-**Built with:** TypeScript · Next.js · React · Tailwind CSS · Recharts
+**Built with:** TypeScript · Next.js · PostgreSQL · React · Tailwind CSS · Recharts
 
 [Explore the code](https://github.com/nouseeme/personal-Treasury-and-Portfolio-journal) · [Try the public demo](https://public-preview-finance-journal.vercel.app/)
 
