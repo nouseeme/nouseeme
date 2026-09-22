@@ -9,7 +9,7 @@
   <a href="mailto:creative.noriz@gmail.com"><strong>Email</strong></a>
 </p>
 
-## Hi, I'm Noufal.
+## Hi, I'm Noufal Rizka.
 
 I'm a **graphic and product designer with a background in business administration**, working across brand strategy, digital experiences, and practical analytical tools. My work has taken me from Indonesia to Türkiye and into collaborations across Europe, connecting business questions with visual communication and technology.
 
