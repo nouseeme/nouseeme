@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Noufal Rizka — Design, business, and code</title>
+  <desc id="desc">Turning complex ideas into things people understand. An editorial banner in deep navy, ivory, and lime with connected geometric shapes.</desc>
+  <rect width="1200" height="360" rx="20" fill="#111b25"/>
+  <path d="M800 0v360M920 0v360M1040 0v360M1160 0v360M760 60h440M760 180h440M760 300h440" stroke="#25323e" stroke-width="1"/>
+  <rect x="56" y="49" width="9" height="9" fill="#d6ee8c"/>
+  <text x="79" y="60" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#d6ee8c">DESIGN / BUSINESS / CODE</text>
+  <text x="52" y="155" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3" fill="#f4f2e9">Noufal Rizka.</text>
+  <text x="56" y="209" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#c6ced3">Turning complex ideas into things</text>
+  <text x="56" y="244" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#c6ced3">people understand.</text>
+  <text x="56" y="311" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#91a0ae">NOUFALRIZ.ME</text>
+  <path d="M850 120h160v120H900" fill="none" stroke="#d6ee8c" stroke-width="2"/>
+  <rect x="812" y="82" width="76" height="76" rx="6" fill="#d6ee8c"/>
+  <circle cx="1010" cy="120" r="38" fill="#111b25" stroke="#d6ee8c" stroke-width="2"/>
+  <path d="m900 202 38 38-38 38-38-38z" fill="#111b25" stroke="#d6ee8c" stroke-width="2"/>
+  <circle cx="1010" cy="240" r="5" fill="#d6ee8c"/>
+  <text x="808" y="311" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#91a0ae">CLARITY THROUGH CONNECTION</text>
+</svg>
